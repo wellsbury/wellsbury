@@ -9,7 +9,7 @@ def brandon_config():
         "location": "Toronto, Canada", 
         "currently": ["Data Engineer", "BI Developer", "Mentor"], 
         "hobbies": ["Hockey", "Snowboarding", "Golf", "Guitar", "Reading"], 
-        "previously": ["Director of Marketing Technology", "Product & Project Manager", "Greenskeeper"], 
+        "previously": ["Director of Marketing Technology", "Product Manager", "Greenskeeper"], 
         "languages": ["Python", "SQL", "LookML", "MQL"], 
     }
 
