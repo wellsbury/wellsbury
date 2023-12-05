@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**wellsbury/wellsbury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Brandon: a Data Engineer and BI Developer from Toronto, Canada! When I'm not at my computer, I'm probably playing hockey:snowflake:, swinging a golf club :golf:, or strumming the guitar :guitar:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+def brandon_config():
+    return {
+        "name": "Brandon Wellsbury",
+        "location": "Toronto, Canada",
+        "currently": ["Data Engineer", "BI Developer", "Mentor"],
+        "hobbies": ["Hockey", "Snowboarding", "Golf", "Guitar", "Reading"]
+        "previously": ["Director of Marketing Technology", "Product & Project Manager", "Greenskeeper"],
+        "languages": ["Python", "SQL", "LookML", "MQL"],
+    }
