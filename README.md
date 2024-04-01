@@ -7,7 +7,7 @@ def brandon_config():
     return { 
         "name": "Brandon Wellsbury", 
         "location": "Toronto, Canada", 
-        "currently": ["Data Engineer", "BI Developer", "Mentor"],
+        "currently": ["Data Engineer", "BI Developer"],
         "previously": ["Director of Marketing Technology", "Product Manager", "Greenskeeper"], 
         "hobbies": ["Hockey", "Snowboarding", "Golf", "Guitar", "Reading"], 
         "languages": ["Python", "SQL", "LookML", "MQL"], 
