@@ -10,7 +10,7 @@ def brandon_config():
         "currently": ["Data Engineer", "BI Developer"],
         "previously": ["Director of Marketing Technology", "Product Manager", "Greenskeeper"], 
         "hobbies": ["Hockey", "Snowboarding", "Golf", "Guitar", "Reading"], 
-        "languages": ["Python", "SQL", "LookML", "MQL"], 
+        "skills": ["Python", "SQL", "Looker/LookML", "Snowflake", "AWS", "Docker"], 
     }
 
 ```
